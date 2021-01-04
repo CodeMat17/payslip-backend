@@ -60,7 +60,11 @@
       "configurable": false
     },
     "staffNo": {
-      "type": "integer"
+      "type": "integer",
+      "required": true,
+      "unique": true,
+      "min": 100,
+      "max": 999
     }
   }
 }
