@@ -20,7 +20,6 @@
     "strapi-plugin-graphql": "3.2.5",
     "strapi-plugin-upload": "3.2.5",
     "strapi-plugin-users-permissions": "3.2.5",
-    "strapi-provider-email-nodemailer": "^3.4.1",
     "strapi-utils": "3.2.5"
   },
   "author": {
