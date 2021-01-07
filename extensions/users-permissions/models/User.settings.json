@@ -65,6 +65,12 @@
       "unique": true,
       "min": 100,
       "max": 999
+    },
+    "phoneNo": {
+      "type": "integer",
+      "required": true,
+      "unique": true,
+      "max": 11
     }
   }
 }
