@@ -67,10 +67,7 @@
       "max": 999
     },
     "phoneNo": {
-      "type": "integer",
-      "required": true,
-      "unique": true,
-      "max": 11
+      "type": "text"
     }
   }
 }
